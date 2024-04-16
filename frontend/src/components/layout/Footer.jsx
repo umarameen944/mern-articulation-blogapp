@@ -61,13 +61,13 @@ const Footer = () => {
           Articula <span>tion</span>
         </div>
         <div className="links">
-          <Link to={"/"} target="_blank">
+          <Link to={"/"} >
             <AiFillInstagram />
           </Link>
           <Link to={"https://github.com/umarameen944"} target="_blank">
             <FaGitSquare />
           </Link>
-          <Link to={""} target="_blank">
+          <Link to={""}>
             <AiFillYoutube />
           </Link>
           <Link to={"https://linkedin.com/in/umarameen"} target="_blank">
